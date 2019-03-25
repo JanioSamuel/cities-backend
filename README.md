@@ -44,7 +44,7 @@ Ou pelo Eclipse rodando com o parâmetro:
 ```sh
 -DloadDatabase="C:\CaminhoDoCSV\arquivo.csv"
 ```
-Esse parâmetro é apenas utilizada quando você quer popular a base pela primeira vez, após isso pode retirar o parâmetro para não haver o carregamento novamente.
+Esse parâmetro é apenas utilizado quando você quer popular a base pela primeira vez, após isso pode retirar o parâmetro para não haver o carregamento novamente.
 
 OBS: São mais de 5 mil registros, leva um tempo, cerca de 5 minutos em um PC mais ou menos.
 
